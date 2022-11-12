@@ -47,7 +47,7 @@ function Post(){
       <Link href={"/"} className="text-xl  font-bold text-gray-800 hover:text-gray-600">Your most unhappy costumers are your greatest source of learning</Link>
           </div>
           <Author></Author>
-       </div>
+    </div>
         </div>
     )
 }
