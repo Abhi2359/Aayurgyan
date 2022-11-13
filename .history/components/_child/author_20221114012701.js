@@ -6,7 +6,7 @@ export default function Author({name, img,designation}) {
 
   return (
     <div className="author flex py-5">
-       <Image src={img ||""} width={60} height={60} alt ="author"className="rounded-full" ></Image>
+       <Image src={img ||""} width={60} height={60} alt =""className="rounded-full" ></Image>
        <div className="flex flex-col justify-center px-4">
         <Link href={"/"} className="text-md font-bold text-gray-800 hover:text-gray-600">{name || "No name"}</Link>
         <span className="text-sm text-gray-500">{designation ||"No designation"}</span>

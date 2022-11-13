@@ -37,7 +37,7 @@ function Post({data}) {
     return(
       <div className="item">
         <div className="images"> 
-        <Link href={`/posts/${id}`}>  <Image src={img || "/"}  width={500} height={350} className="rounded" alt="section2"/></Link>
+        <Link href={`/posts/${id}`}>  <Image src={img || "/"}  width={500} height={350} className="rounded"/></Link>
         </div>
         <div className="info flex justify-center flex-col py-4">
         <div className="cat">

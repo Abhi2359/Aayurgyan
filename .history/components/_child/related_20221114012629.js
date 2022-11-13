@@ -39,7 +39,7 @@ const {id,title,category,img,published,author}=data;
     return(
       <div className="flex gap-5">
          <div className="image flex flex-col justify-start">
-       <Link href={`/posts/${id}`}>  <Image src={img ||""}  width={300} height={200} alt="logo" className="rounded"/></Link>
+       <Link href={`/posts/${id}`}>  <Image src={img ||""}  width={300} height={200} alt className="rounded"/></Link>
        </div>
        <div className="info flex justify-center flex-col">
        <div className="cat">
