@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import Image from 'next/image'
 import Author from './author';
-import Fetcher from '../../lib/fetcher';
+import etcher from '../../lib/fetcher';
 import Error from './error';
 import Spinner from './spinner';
 
@@ -9,7 +9,7 @@ import Spinner from './spinner';
 
 
 export default function Related() {
-  const{data,isLoading,isError}=Fetcher('api/posts')
+  const{data,isLoading,isError}=fetcher('api/posts')
 
   if(isLoading) return <Spinner></Spinner>;
   if(isError) return <Error></Error>

@@ -4,14 +4,14 @@ import Author from './_child/author'
 import { Swiper, SwiperSlide } from 'swiper/react';
 import SwiperCore ,{Autoplay} from 'swiper';
 import 'swiper/css';
-import Fetcher from '../lib/fetcher'
+import etcher from '../lib/fetcher'
 import Spinner from './_child/spinner'
 import Error from './_child/error'
 
 
 
 export default function Section1() {
-  const{data,isLoading,isError}=Fetcher('api/trending')
+  const{data,isLoading,isError}=fetcher('api/trending')
 
   if(isLoading) return <Spinner></Spinner>;
   if(isError) return <Error></Error>;

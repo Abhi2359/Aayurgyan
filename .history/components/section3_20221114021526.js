@@ -11,7 +11,7 @@ import Error from './_child/error'
 
 export default function Section3() {
 
-  const{data,isLoading,isError}=Fetcher('api/popular')
+  const{data,isLoading,isError}=fetcher('api/popular')
 
   if(isLoading) return <Spinner></Spinner>;
   if(isError) return <Error></Error>;

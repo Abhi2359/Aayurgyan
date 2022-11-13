@@ -3,7 +3,7 @@ import Format from "../../layout/format"
 import Author from '../../components/_child/author';
 import Related from "../../components/_child/related";
 import getPost from "../../lib/helper";
-import Fetcher from "../../lib/fetcher"
+import etcher from "../../lib/fetcher"
 import Spinner from "../../components/_child/spinner";
 import Error from "../../components/_child/error";
 import { useRouter } from "next/router";
@@ -13,7 +13,7 @@ export default function Page({fallback}){
 
     const router =useRouter()
    const{postId}= router.query;
-    const {data,isLoading,isError} =Fetcher(`api/posts/${postId}`)
+    const {data,isLoading,isError} =fetcher(`api/posts/${postId}`)
 
 
     if(isLoading) return <Spinner></Spinner>
