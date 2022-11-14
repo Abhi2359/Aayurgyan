@@ -91,8 +91,8 @@ export default {
             `,
             published: "Jun 14,  2022",
             author: {
-                name: "Pushkar Vatsa",
-                img: "/images/author/pushkar.jpeg",
+                name: "Ankit Kumar Dwij",
+                img: "/images/author/Ankit.jpeg",
                 designation : "Contributor"
             }
         }
@@ -233,8 +233,8 @@ export default {
             `,
             published: "Jun 5,  2022",
             author: {
-                name: "Flying High",
-                img: "/images/author/pushkar.jpeg",
+                name: "Ankit Kumar Dwij",
+                img: "/images/author/Ankit.jpeg",
                 designation : "Contributor"
             }
         },
@@ -331,8 +331,8 @@ export default {
             `,
             published: "Jun 14,  2022",
             author: {
-                name: "Pushkar Vatsa",
-                img: "/images/author/pushkar.jpeg",
+                name: "Ankit Kumar Dwij",
+                img: "/images/author/Ankit.jpeg",
                 designation : "Contributor"
             }
         },
