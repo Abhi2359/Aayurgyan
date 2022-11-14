@@ -20,17 +20,17 @@ export default function Section1() {
     SwiperCore.use([Autoplay])
 
 
-    const bg={
-        background:"url('/images/banner.png') no-repeat",
-        backgroundPosition:"right"
-    }
+    // const bg={
+    //     background:"url('/images/banner.png') no-repeat",
+    //     backgroundPosition:"right"
+    // }
 
 
 
   return (
-    <section className="py-16 "style={bg}>
+    <section className="py-16 ">
    <div className="container mx-auto md:px-20">
-    <h1 className="font-bold text-4xl pb-12 text-center">Trending</h1>
+    <h1 className="font-bold text-4xl pb-12 text-center">Dharohar</h1>
     <Swiper
     
       slidesPerView={1}
@@ -73,7 +73,7 @@ function Slide({data}){
                 <Link href={`/posts/${id}`} className="text-gray-800 hover:text-gray-600">-{published  ||"Unknown"}</Link>
             </div>
             <div className='title'>
-        <Link href={`/posts/${id}`} className="text-3xl md:text-6xl font-bold text-gray-800 hover:text-gray-600">{title  ||"Unknown"}</Link>
+        <Link href={`/posts/${id}`} className="text-xl md:text-5xl font-bold text-gray-800 hover:text-gray-600">{title  ||"Unknown"}</Link>
             </div>
             <p className='text-gray-500  py-3'>
           {description  ||"description"}
