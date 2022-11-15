@@ -37,7 +37,7 @@ export default function Section1() {
       loop={true}
       autoplay={
         {
-            delay:5000
+            delay:3000
         }
       }
       

@@ -1,4 +1,4 @@
-export default {  
+const obj={  
     Trending : [
         {
             id: 1,
@@ -340,3 +340,4 @@ export default {
     ]
 }
 
+export default obj;
