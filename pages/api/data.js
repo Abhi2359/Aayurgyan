@@ -87,7 +87,7 @@ const obj={
             category: "Ashwagandha",
             img : "/images/ashwagandha.webp",
             description: `
-            The main phytochemical constituents are withanolides – which are triterpene lactones – withaferin A, alkaloids, steroidal lactones, tropine, and cuscohygrine.Some 40 withanolides, 12 alkaloids, and numerous sitoindosides have been isolated.[3] Withanolides are structurally similar to the ginsenosides of Panax ginseng, leading to a common name for W. somnifera, "Indian ginseng".
+            The main phytochemical constituents are withanolides – which are triterpene lactones – withaferin A, alkaloids, steroidal lactones, tropine, and cuscohygrine.Some 40 withanolides, 12 alkaloids, and numerous sitoindosides have been isolated. Withanolides are structurally similar to the ginsenosides of Panax ginseng, leading to a common name for W. somnifera, "Indian ginseng".
             `,
             published: "Jun 14,  2022",
             author: {
@@ -109,12 +109,12 @@ const obj={
 
             The three main morphotypes cultivated in India and Nepal are Ram tulsi (the most common type, with broad bright green leaves that are slightly sweet), the less common purplish green-leaved (Krishna or Shyam tulsi) and the common wild vana tulsi (e.g., Ocimum gratissimum).
 
-            DNA barcodes of various biogeographical isolates of tulsi from the Indian subcontinent are now available. In a large-scale phylogeographical study of this species conducted using chloroplast genome sequences, a group of researchers from Central University of Punjab, Bathinda, have found that this plant originates from North-Central India.[7]
+            DNA barcodes of various biogeographical isolates of tulsi from the Indian subcontinent are now available. In a large-scale phylogeographical study of this species conducted using chloroplast genome sequences, a group of researchers from Central University of Punjab, Bathinda, have found that this plant originates from North-Central India.
 
              This basil has now escaped from cultivation and has naturalised into a     cosmopolitan distribution.
-             Some of the phytochemical constituents of tulsi are oleanolic acid, ursolic acid, rosmarinic acid, eugenol, carvacrol, linalool, and β-caryophyllene (about 8%).[10]
+             Some of the phytochemical constituents of tulsi are oleanolic acid, ursolic acid, rosmarinic acid, eugenol, carvacrol, linalool, and β-caryophyllene (about 8%).
 
-             Tulsi essential oil consists mostly of eugenol (~70%) β-elemene (~11.0%), β-caryophyllene (~8%), and germacrene (~2%), with the balance being made up of various trace compounds, mostly terpenes.[11]
+             Tulsi essential oil consists mostly of eugenol (~70%) β-elemene (~11.0%), β-caryophyllene (~8%), and germacrene (~2%), with the balance being made up of various trace compounds, mostly terpenes.
             `,
             published: "Jun 3,  2022",
             author: {
@@ -182,9 +182,9 @@ const obj={
             description: `
             Most people perceive coriander as having a tart, lemon/lime taste, but to nearly a quarter of those surveyed, the leaves taste like dish soap, linked to a gene that detects some specific aldehydes that can produce soapy sensation from the odorant substances.
 
-            First attested in English during the late 14th century, the word "coriander" derives from the Old French coriandre, which comes from Latin coriandrum,[6] in turn from Ancient Greek κορίαννον koríannon (or κορίανδρον koríandron),[7][8] possibly derived from or related to κόρις kóris (a bed bug),[9][10] and was given on account of its foetid, bed bug-like smell.[11]
+            First attested in English during the late 14th century, the word "coriander" derives from the Old French coriandre, which comes from Latin coriandrum, in turn from Ancient Greek κορίαννον koríannon (or κορίανδρον koríandron), possibly derived from or related to κόρις kóris (a bed bug),and was given on account of its foetid, bed bug-like smell.
 
-           The earliest attested form of the word is the Mycenaean Greek ko-ri-ja-da-na (variants: ko-ri-a2-da-na, ko-ri-ja-do-no, ko-ri-jo-da-na)[13] written in Linear B syllabic script (reconstructed as koriadnon, similar to the name of Minos' daughter Ariadne) which later evolved to koriannon or koriandron, and Koriander (German).
+           The earliest attested form of the word is the Mycenaean Greek ko-ri-ja-da-na (variants: ko-ri-a2-da-na, ko-ri-ja-do-no, ko-ri-jo-da-na)written in Linear B syllabic script (reconstructed as koriadnon, similar to the name of Minos' daughter Ariadne) which later evolved to koriannon or koriandron, and Koriander (German).
 
             Cilantro is the Spanish word for coriander, also deriving from coriandrum. It is the common term in American English for coriander leaves, due to their extensive use in Mexican cuisine.
             `,
@@ -202,9 +202,9 @@ const obj={
             category: "Mint",
             img : "/images/articles/posts/mint.webp",
             description: `
-            Mints are aromatic, almost exclusively perennial herbs. They have wide-spreading underground and overground stolons[9] and erect, square,[10] branched stems. The leaves are arranged in opposite pairs, from oblong to lanceolate, often downy, and with a serrated margin. Leaf colors range from dark green and gray-green to purple, blue, and sometimes pale yellow.[6] The flowers are white to purple and produced in false whorls called verticillasters. The corolla is two-lipped with four subequal lobes, the upper lobe usually the largest. The fruit is a nutlet, containing one to four seeds.
+            Mints are aromatic, almost exclusively perennial herbs. They have wide-spreading underground and overground stolons and erect, square,oblong to lanceolate, often downy, and with a serrated margin. Leaf colors range from dark green and gray-green to purple, blue, and sometimes pale yellow.The flowers are white to purple and produced in false whorls called verticillasters. The corolla is two-lipped with four subequal lobes, the upper lobe usually the largest. The fruit is a nutlet, containing one to four seeds.
 
-            Mentha is a member of the tribe Mentheae in the subfamily Nepetoideae. The tribe contains about 65 genera, and relationships within it remain obscure.[4] Authors have disagreed on the circumscription of Mentha. For example, M. cervina has been placed in Pulegium and Preslia, and M. cunninghamii has been placed in Micromeria.[11] In 2004, a molecular phylogenetic study indicated that both M. cervina and M. cunninghamii should be included in Mentha.[5] However, M. cunninghamii was excluded in a 2007 treatment of the genus.[11]
+            Mentha is a member of the tribe Mentheae in the subfamily Nepetoideae. The tribe contains about 65 genera, and relationships within it remain obscure. Authors have disagreed on the circumscription of Mentha. For example, M. cervina has been placed in Pulegium and Preslia, and M. cunninghamii has been placed in Micromeria. In 2004, a molecular phylogenetic study indicated that both M. cervina and M. cunninghamii should be included in Mentha. However, M. cunninghamii was excluded in a 2007 treatment of the genus.
 
           More than 3,000 names have been published in the genus Mentha, at ranks from species to forms, the majority of which are regarded as synonyms or illegitimate names. The taxonomy of the genus is made difficult because many species hybridize readily, or are themselves derived from possibly ancient hybridization events
             `,
@@ -279,7 +279,7 @@ const obj={
             category: "Eucalyptus",
             img : "/images/Eucalyptus.jpg",
             description: `
-            Along with several other genera in the tribe Eucalypteae, including Corymbia, they are commonly known as eucalypts.[3] Plants in the genus Eucalyptus have bark that is either smooth, fibrous, hard or stringy, leaves with oil glands, and sepals and petals that are fused to form a "cap" or operculum over the stamens. The fruit is a woody capsule commonly referred to as a "gumnu".
+            Along with several other genera in the tribe Eucalypteae, including Corymbia, they are commonly known as eucalypts. Plants in the genus Eucalyptus have bark that is either smooth, fibrous, hard or stringy, leaves with oil glands, and sepals and petals that are fused to form a "cap" or operculum over the stamens. The fruit is a woody capsule commonly referred to as a "gumnu".
             `,
             published: "Jun 7,  2022",
             author: {
@@ -327,7 +327,7 @@ const obj={
             category: "Ashwagandha",
             img : "/images/ashwagandha.webp",
             description: `
-            The main phytochemical constituents are withanolides – which are triterpene lactones – withaferin A, alkaloids, steroidal lactones, tropine, and cuscohygrine.Some 40 withanolides, 12 alkaloids, and numerous sitoindosides have been isolated.[3] Withanolides are structurally similar to the ginsenosides of Panax ginseng, leading to a common name for W. somnifera, "Indian ginseng".
+            The main phytochemical constituents are withanolides – which are triterpene lactones – withaferin A, alkaloids, steroidal lactones, tropine, and cuscohygrine.Some 40 withanolides, 12 alkaloids, and numerous sitoindosides have been isolated. Withanolides are structurally similar to the ginsenosides of Panax ginseng, leading to a common name for W. somnifera, "Indian ginseng".
             `,
             published: "Jun 14,  2022",
             author: {
