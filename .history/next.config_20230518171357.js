@@ -4,7 +4,7 @@ const nextConfig = {
   webpack: (config, { dev }) => {
     if (dev) {
       // Configure the server port
-      config.devServer.port = 3000; // Replace with your desired server port
+      config.devServer.port = ; // Replace with your desired server port
     } else {
       // Configure the client port
       config.output.publicPath = '/_next/';
