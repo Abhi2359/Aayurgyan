@@ -1,11 +1,13 @@
 {
   "name": "blog__app",
   "version": "0.1.0",
-  "proxy":"http://localhost:8080",
+  "proxy": "http://localhost:8080",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
+    "build": "babel src -d lib",
+    "test": "jest",
+    "dev": "next dev ",
+    
     "start": "next start",
     "lint": "next lint"
   },
